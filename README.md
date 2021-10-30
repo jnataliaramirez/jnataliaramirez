@@ -20,7 +20,7 @@ const natalia = {
  }
 ```
 ### 📫 How To reach me:
-<p>You can reach me in my social networks and follow! 😎</p>
+<p>You can reach me in my social networks and also follow me! 😎</p>
 
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="30em" align="center" alt="Follow jnataliaramirez on LinkedIn" title="Follow jnataiaramirez on LinkedIn"/>](https://linkedin.com/in/jnataliaramirez)
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="30em" align="center" alt="Follow jnataliaramirez on Twitter" title="Follow jnataliaramirez on Twitter"/>](https://twitter.com/jnataliaramirez)
