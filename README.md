@@ -4,7 +4,8 @@
 </em></p>
 
 ### <img src="https://media.giphy.com/media/gFhZjOtzoutSvckWPM/giphy.gif" width="50"> A little more about me...  
-<img align='right' src="https://github.com/jnataliaramirez/jnataliaramirez/blob/main/me-say-hi.png" width="230">
+
+
 
 ```javascript
 const natalia = {
@@ -12,13 +13,15 @@ const natalia = {
   🖥️code: [Javascript, HTML5, CSS3, SASS, SQLite],
   🔩tools: [React, Nodejs, Express, Gulp, NPM, Git, Bootstrap],
   🔭working: ["my_portfolio👩‍💻", "learning🚀", "breath🧘🏻‍♀️"],
-  🌱learning: [tailwindcss], 
+  🌱learning: ["continue_learning_JavaScript", "continue_learning_React"], 
   🤔help_with: { 
                 exercisesFor: ["practice", "blog"]
               },
   💬ask_me: ["something_about_javascript", "something_about_layout"]
  }
 ```
+<img align='right' src="https://github.com/jnataliaramirez/jnataliaramirez/blob/main/me-say-hi.png" width="230">
+
 ### 📫 How To reach me:
 <p>You can reach me in my social networks and also follow me! 😎</p>
 
