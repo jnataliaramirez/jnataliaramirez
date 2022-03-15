@@ -9,15 +9,15 @@
 
 ```javascript
 const natalia = {
-  👩🏻‍🚀pronouns: "she" | "her",
-  🖥️code: [Javascript, HTML5, CSS3, SASS, SQLite],
-  🔩tools: [React, Nodejs, Express, Gulp, NPM, Git, Bootstrap],
-  🔭working: ["my_portfolio👩‍💻", "learning🚀", "breath🧘🏻‍♀️"],
-  🌱learning: ["continue_learning_JavaScript", "continue_learning_React"], 
-  🤔help_with: { 
+  👩🏻‍🚀 pronouns: "she" | "her",
+  🖥️ code: [TypeScript, Javascript, HTML5, CSS3, SASS, SQLite],
+  🔩 tools: [React, Nodejs, Express, Gulp, NPM, Git, Bootstrap],
+  🔭 working: ["my_portfolio👩‍💻", "learning🚀", "breath🧘🏻‍♀️"],
+  🌱 learning: ["learning_JavaScript", "learning_React", learning_TypeScript], 
+  🤔 help_with: { 
                 exercisesFor: ["practice", "blog"]
               },
-  💬ask_me: ["something_about_javascript", "something_about_layout"]
+  💬 ask_me: ["something_about_javascript", "something_about_layout"]
  }
 ```
 <img align='right' src="https://github.com/jnataliaramirez/jnataliaramirez/blob/main/me-say-hi.png" width="230">
