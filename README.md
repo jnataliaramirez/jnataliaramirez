@@ -11,7 +11,7 @@
 const natalia = {
   👩🏻‍🚀 pronouns: "she" | "her",
   🖥️ code: [TypeScript, Javascript, HTML5, CSS3, SASS, SQLite],
-  🔩 tools: [React, Nodejs, Express, Gulp, NPM, Git, Bootstrap],
+  🔩 tools: [React, Styed-Components, tailwind, Next, Nodejs, Express, Gulp, NPM, Git,],
   🔭 working: ["my_portfolio👩‍💻", "learning🚀", "breath🧘🏻‍♀️"],
   🌱 learning: ["learning_JavaScript", "learning_React", learning_TypeScript], 
   🤔 help_with: { 
