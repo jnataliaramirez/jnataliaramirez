@@ -1,6 +1,6 @@
 <h1> Hi, I'm Natalia Ramirez! 🤓 </h1>
 
-<p><em>Front-end Developer at &nbsp; <a href="https://adalab.es/"><img src="https://adalab.es/wp-content/uploads/2021/05/logo-adalab.svg" width="75"></a> 
+<p><em>Front-end Developer at &nbsp; <a href="https://adalab.es/"><img src="https://adalab.es/wp-content/uploads/2022/03/logo-adalab.png" width="75"></a> 
 </em></p>
 
 ### <img src="https://media.giphy.com/media/gFhZjOtzoutSvckWPM/giphy.gif" width="50"> A little more about me...  
